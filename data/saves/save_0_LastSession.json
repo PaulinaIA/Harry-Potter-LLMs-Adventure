@@ -1,0 +1,20 @@
+{
+  "timestamp": 1741570932.2514029,
+  "save_name": "LastSession",
+  "attributes": {
+    "inteligencia": 1
+  },
+  "inventory": [],
+  "history": [
+    {
+      "role": "user",
+      "content": "Hola, me gustaría comenzar mi aventura en Hogwarts"
+    },
+    {
+      "role": "assistant",
+      "content": "**Bienvenido a Hogwarts**\n\nLa puerta principal de la escuela se abre con un suave tinkle, permitiéndote entrar en el mundo mágico. La noche está llena de estrellas plateadas que reflejan el sol que brilla suavemente detrás del castillo.\n\nEl establo del anciano hechicero, Rubeus Hagrid, espera por ti a la puerta. Su ojos brillan con un encanto mágico mientras habla en una voz sonora y triste de la nocheante pasada:\n\n\"Mira, mago joven, tengo que decirles algo antes de que nos vamos. Las cosas están cambiando alrededor de aquí. La luna plena está a punto de suceder y con ella, las sombras de mis antepasados pueden volar en el aire.\n\n\"La Cámara de piedra es abierta para la clase de primer año esta noche, pero no te ofrezco ninguna alegría. Estoy decidido que no quiero verte. En mi intento por proteger a Harry Potter y las demás personas a pesar de lo grande de mi desesperación, me encontré con una criatura... sin nombre. Está atrapado en un sueño y no sé qué pueda hacer para ponle fuera.\n\n\"La vida puede estar cambiando y el destino está siendo escrita por la luna plena. Espero que estés listo para ayudarlo.\"\n\nHagrid te envía un regalo mágico: un cuadro antiguo que ilumina el rotero hasta las calles de Hogwarts, guiándote hacia tu hogar escolar.\n\n¿Quieres ir a casa?\n\nA) Ir directamente al dormitorio del dormitorio 1\nB) Sentarse en la puerta para estudiar y reflexionar sobre la misteriosa criatura\nC) Explorarlo el castillo antes de irte por la noche\n\nElige tu respuesta:"
+    }
+  ],
+  "house": "",
+  "character_name": ""
+}
