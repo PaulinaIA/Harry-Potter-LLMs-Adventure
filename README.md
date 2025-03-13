@@ -1,4 +1,4 @@
-# 🧙‍♂️ Aventura en el Mundo de Harry Potter: Un Experimento de IA Narrativa 🪄
+# 🧙‍♂️ Aventura en el Mundo de Harry Potter: Un Experimento de IA Narrativa
 
 ## [PROYECTO EN DESARROLLO]
 
